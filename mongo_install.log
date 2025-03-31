@@ -1,0 +1,13 @@
+sudo: unable to resolve host wk9vf4: Name or service not known
+Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+WARNING: channel "pecl.php.net" has updated its protocols, use "pecl channel-update pecl.php.net" to update
+downloading mongodb-1.21.0.tgz ...
+Starting to download mongodb-1.21.0.tgz (2,151,749 bytes)
+........................................................................................................................................................................................................................................................................................................................................................................................................................................done: 2,151,749 bytes
+876 source files, building
+running: phpize
+Configuring for:
+PHP Api Version:         20220829
+Zend Module Api No:      20220829
+Zend Extension Api No:   420220829
+Enable developer flags? (yes/no) [no] : 
